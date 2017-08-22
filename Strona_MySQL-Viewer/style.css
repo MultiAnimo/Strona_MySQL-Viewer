@@ -1,0 +1,33 @@
+﻿body {
+}
+
+/*Fs - fieldset
+  Txt - text
+  Lg - legend
+  In - input
+  La - label
+*/
+
+.FsLogin {
+    border-color: dodgerblue;
+    background-color: cornsilk;
+    
+}
+
+.LgLogin {
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    font-size: 24px;
+}
+.TxtLogin {
+    font-family: Arial;
+}
+
+.InLogin {
+    align-items: center;
+    font-family: Arial;
+}
+
+.LaStatus {
+
+}
